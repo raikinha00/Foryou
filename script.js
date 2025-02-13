@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Obrigado por fazeres parte da minha vida 🥰",
         "Tu es o meu presente mais precioso 🎁",
         "Te amo mais que tudo nesse mundo! 💘",
-        "Te amo muito meu amor, minha macaquinha, minha mulher, minha tudoooo ❤️💕"
+        "Te amo muito meu amor, minha macaquinha, minha mulher, minha tudoooo ❤️"
     ];
     let currentMessageIndex = 0;
 
