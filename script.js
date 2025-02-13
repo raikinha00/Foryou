@@ -1,14 +1,15 @@
 document.addEventListener('DOMContentLoaded', () => {
     const specialBtn = document.getElementById('special-btn');
     const messages = [
-        "Você é a pessoa mais especial da minha vida ❤️",
+        "Tu é a pessoa mais especial da minha vida ❤️",
         "Cada momento contigo é um tesouro que guardo no coração 💖",
-        "Seu sorriso é a luz que ilumina meus dias 🌟",
+        "O teu sorriso é a luz que ilumina meus dias 🌟",
         "Nosso amor é mais forte a cada dia que passa 💑",
-        "Você me faz querer ser uma pessoa melhor 💝",
-        "Obrigado por fazer parte da minha vida 🥰",
-        "Você é meu presente mais precioso 🎁",
-        "Te amo mais que tudo nesse mundo! 💘"
+        "Tu me fazes querer ser uma pessoa melhor 💝",
+        "Obrigado por fazeres parte da minha vida 🥰",
+        "Tu es o meu presente mais precioso 🎁",
+        "Te amo mais que tudo nesse mundo! 💘",
+        "Te amo muito meu amor, minha macaquinha, minha mulher, minha tudoooo ❤️💕"
     ];
     let currentMessageIndex = 0;
 
